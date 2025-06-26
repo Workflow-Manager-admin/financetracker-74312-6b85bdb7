@@ -1,0 +1,4 @@
+{
+    "command": "CI=true PORT=<port> HOST=<host> npm run dev",
+    "working_directory": "/home/kavia/workspace/code-generation/financetracker-74312-6b85bdb7/income_expense_backend_workspace/income_expense_backend"
+}
